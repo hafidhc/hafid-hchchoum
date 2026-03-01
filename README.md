@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm hafid hchchoum
 
-🌍 A 18-year-old **AI & Data Science enthusiast** from Agadir, Morocco.  
+🌍 A 19-year-old **AI & Data Science enthusiast** from Agadir, Morocco.  
 🎓 **1st-year Data Engineering student** at École Supérieure de Technologie d'Agadir (ESTA).  
 📜 Certified in **Udemy** |  Obsessed with turning data into actionable insights.  
 
